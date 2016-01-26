@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<title>HTML Tutorial</title>
+<body>
+
+<p>You are to find an interactive data visualization online. Your example can be from journalism or part of a brand’s content marketing or even part of a product like Mint or a home mortgage calculator; however, your example MUST collect some kind of user input to control, organize or sort data and must output a visualization (good places to start: NYTimes Interactives, NPR visuals). </p> 
+
+<p>You are to create a basic HTML file with headers, paragraphs, etc. presenting your example and explaining the following:
+  <ul>
+    <li>A screenshot of the interactive</li>
+    <li>A link to the interactive</li>
+    <li>The input the interactive collects</li>
+    <li>The output the interactive collects</li>
+    <li>What “thinking” the program is doing</li>
+    <li>What patterns, comparisons, trends, etc. the interactive is meant to demonstrate</li>
+    <li>Describe any labels, legends and keys used in the visualization to demonstrate those patterns. How are they used? Why?</li>
+    <li>How the interactivity enhances the story</li>
+    <li>What important context is included and how</li>
+    <li>What context is not included</li>
+  </ul>
+</p>
+
+<p>You should host your HTML file on your iWeb account and add it to the course GitHub.</p>
+</body>
+</html>
