@@ -1,0 +1,29 @@
+Javascript Assignment
+
+Your team of two is to select an article that one of you has written for another class or for student media (or if you are a PR or advertising student, select a campaign you have worked on) and develop an interactive web component for it using Javascript, HTML and CSS. You may want to revisit the wikis from before Spring Break for ideas, or check out the Society for News Design's Best of Digital Design competition winners from the last several years:
+http://www.snd.org/topics/best-of-digital-design/
+
+STEP 1 Bring Tuesday, April 19
+Develop a list of at least 10 potential interactives for your selected story. Narrow it down to one idea. In one to two well-developed paragraphs, explain how the interactivity will increase audience engagement with and understanding of your story and its impact.
+
+STEP 2 Finish Tuesday, April 19 in class
+Develop the logic of the interactivity. Before using Javascript to build your idea, create a diagram of what inputs and outputs your interactive needs. Diagram what the inputs/outputs need to do.
+
+STEP 3
+Code the interactive using Javascript. You may use libraries, code you’ve written for Codecademy, etc., but will need to go beyond simply using one of the “games” you’ve already written. 
+
+STEP 4
+Use front-end languages like HTML and CSS to give your interactive a front-end.
+
+STEP 5
+Annotate and turn in your code. Using comments, you should explain what each section of your code does. Example:
+
+//this function takes the user’s prompt and if the prompt string matches the string “Steve,” it sends the user a message saying there was a match by putting the message in a paragraph with the CSS id “message.” If the user didn’t type in “Steve” then the message that goes into the paragraph with the id “message” says there was no match.
+var match = function(userInput) {
+		if (userInput = “Steve”) {
+			document.getElementById("message").innerHTML = “There was a match”;
+}
+else {
+	document.getElementById("message").innerHTML = “There was NO match”;
+}
+  }
